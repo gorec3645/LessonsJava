@@ -15,7 +15,7 @@ public class Main {
 
 
     // Сылочные типы.
-    // Хранить ссылку на помять 
+    // Хранить ссылку на помять
     Main onject1;
     Main onject2;
     Main object3;
